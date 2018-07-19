@@ -11,9 +11,9 @@ Project Organization
     │
     ├── figures/            <- Figures saved by scripts or notebooks.
     │
-    ├── notebooks/          <- Jupyter notebooks. Naming convention is a short `-` delimited 
-    │                         description, a number (for ordering), and the creator's initials,
-    │                        e.g. `initial-data-exploration-01-hg`.
+    ├── notebooks/          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    │                         the creator's initials, and a short `-` delimited description, e.g.
+    │                         `1.0-gk-initial-data-exploration`.
     │
     ├── output/             <- Manipulated data, logs, etc.
     │
