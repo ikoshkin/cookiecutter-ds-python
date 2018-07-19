@@ -1,5 +1,4 @@
 # OSX Junk
 .DS_Store
 
-# .env
-!{{ cookiecutter.repo_name }}/**
+!\{\{\ cookiecutter.repo_name\ \}\}/**
