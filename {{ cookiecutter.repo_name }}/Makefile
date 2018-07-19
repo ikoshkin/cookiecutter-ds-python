@@ -1,4 +1,4 @@
-.PHONY: create_environment git
+.PHONY: create_environment git autoenv
 
 #################################################################################
 # GLOBALS                                                                       #
